@@ -1,6 +1,0 @@
-test file
-
-esto es para la tarea
-
-aqui va el conflicto
-
